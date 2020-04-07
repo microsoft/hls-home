@@ -1,15 +1,11 @@
----
-page_type: sample
-description: "Public home repository for Microsoft Health & Life Sciences team."
-urlFragment: "update-this-to-unique-url-stub"
----
-
 This is the public home repository for Microsoft Health & Life Sciences team. The primary purpose of this repository is to help users navigate our related repositories.
 
 ## Our repos
 | Repo name         | Description                                |
 |-------------------|--------------------------------------------|
-| [hls-filledmapwithpointsvisual](https://github.com/microsoft/hls-filledmapwithpointsvisual) | Power BI custom visualization to provide filled map, but add location points |
+| [hls-filledmapwithpointsvisual](https://github.com/microsoft/hls-filledmapwithpointsvisual) | Power BI custom visualization to provide filled map and add location points |
+| [hls-cdcmonitor](https://github.com/microsoft/hls-cdcmonitor) | Monitor changes to CDC guidance |
+
 
 ## Contents
 
