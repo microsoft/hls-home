@@ -11,6 +11,7 @@ This is the public home repository for Microsoft Health & Life Sciences team. Th
 | Repo name | Description |
 |-----------|-------------|
 | [https://github.com/microsoft/health-architectures](https://github.com/microsoft/health-architectures) | Microsoft Health Architectures |
+| [https://github.com/cyberuna/AI-Starter-Kit-OnFHIR](https://github.com/cyberuna/AI-Starter-Kit-OnFHIR) | Cyberuna's A.I. Starter Kit: OnFHIR |
 
 
 ## Contents
