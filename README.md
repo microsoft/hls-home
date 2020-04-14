@@ -6,6 +6,7 @@ This is the public home repository for Microsoft Health & Life Sciences team. Th
 | [hls-filledmapwithpointsvisual](https://github.com/microsoft/hls-filledmapwithpointsvisual) | Power BI custom visualization to provide filled map and add location points |
 | [hls-cdcmonitor](https://github.com/microsoft/hls-cdcmonitor) | Monitor changes to CDC guidance |
 | [hls-assettracker](https://github.com/microsoft/hls-assettracker) | Track healthcare organization's asset location and usage |
+| [hls-onboarding-kit](https://github.com/microsoft/hls-onboarding-kit) | HLS Onboarding Kit |
 
 ## Links to other interesting repositories
 | Repo name | Description |
