@@ -7,6 +7,11 @@ This is the public home repository for Microsoft Health & Life Sciences team. Th
 | [hls-cdcmonitor](https://github.com/microsoft/hls-cdcmonitor) | Monitor changes to CDC guidance |
 | [hls-assettracker](https://github.com/microsoft/hls-assettracker) | Track healthcare organization's asset location and usage |
 
+## Links to other interesting repositories
+| Repo name | Description |
+|-----------|-------------|
+| [https://github.com/microsoft/health-architectures](https://github.com/microsoft/health-architectures) | Microsoft Health Architectures |
+
 
 ## Contents
 
