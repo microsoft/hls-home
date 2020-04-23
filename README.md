@@ -13,6 +13,9 @@ This is the public home repository for Microsoft Health & Life Sciences team. Th
 |-----------|-------------|
 | [https://github.com/microsoft/health-architectures](https://github.com/microsoft/health-architectures) | Microsoft Health Architectures |
 | [https://github.com/cyberuna/AI-Starter-Kit-OnFHIR](https://github.com/cyberuna/AI-Starter-Kit-OnFHIR) | Cyberuna's A.I. Starter Kit: OnFHIR |
+| <https://github.com/microsoft/Industry-Accelerator-Health> | Microsoft Healthcare Accelerator |
+| <https://github.com/microsoft/Industry-Accelerator-Health/releases/tag/HCA-PSSTv1.0.0.1> | Healthcare Accelerator Patient Scheduling and Screening Template (Release) |
+| <https://github.com/microsoft/Bing-COVID-19-Data> | Healthcare Bing COVID-19 data |
 
 
 ## Contents
