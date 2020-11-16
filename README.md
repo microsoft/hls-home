@@ -15,20 +15,6 @@ This is the public home repository for Microsoft Health & Life Sciences team. Th
 | [https://github.com/Microsoft/Industry-Accelerator-Health](https://github.com/Microsoft/Industry-Accelerator-Health) | Industry Accelerator Health |
 | [https://aka.ms/gitsmartt](https://aka.ms/gitsmartt) | SmartterHealth |
 
-
-## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
-
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
-
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
